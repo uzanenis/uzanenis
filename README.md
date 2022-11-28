@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been dealing with Frontend for 3 years. I've done various project with React.js and Vue.js.
+I've been dealing with Frontend for 2 years. I've done various project with React.js and Vue.js.
 
 * 🌍  I'm based in Kocaeli
 * ✉️  You can contact me at [uzanenis@outlook.com](mailto:uzanenis@outlook.com)
