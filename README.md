@@ -10,7 +10,7 @@ I've been dealing with Frontend for 2 years. I've done various projects with Rea
 * ✉️  You can contact me at [uzanenis@outlook.com](mailto:uzanenis@outlook.com)
 * 🚀  I'm currently working on [Feux](http://feux.digital/)
 * 🧠  I'm learning GraphQL, React Native and Node.js
-* 🤝  I'm open to collaborating on React Native projects
+* 🤝  I'm open to collaborating on ...
 
 ### Skills
 
