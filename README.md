@@ -6,7 +6,6 @@ Frontend Developer
 
 I've been dealing with Frontend for 4 years. I've done various projects with React.js and Vue.js.
 
-* 🌍  I'm based in Kocaeli
 * ✉️  You can contact me at [uzanenis@outlook.com](mailto:uzanenis@outlook.com)
 * 🚀  I'm currently working on [Akinon](http://akinon.com/)
 * 🧠  I'm learning GraphQL, React Native and Node.js
