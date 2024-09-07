@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been dealing with Frontend for 4 years. I've done various projects with React.js and Vue.js.
+I've been dealing with Frontend for 4 years. I've done various projects with React.js.
 
 * ✉️  You can contact me at [uzanenis@outlook.com](mailto:uzanenis@outlook.com)
-* 🚀  I'm currently working on [Akinon](http://akinon.com/)
+* 🚀  I'm currently working on [AiFA Labs](https://www.aifalabs.com)
 * 🧠  I'm learning GraphQL, React Native and Node.js
 * 🤝  I'm open to collaborating on ...
 
