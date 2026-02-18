@@ -30,16 +30,6 @@ I enjoy building:
 
 ---
 
-## 🏗 Philosophy
-
-> “Ship fast. Learn faster. Iterate relentlessly.”
-
-- I prefer real users over perfect architecture.
-- I build lean, measure, and optimize.
-- I treat AI as a force multiplier, not a gimmick.
-
----
-
 ## 📊 GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/uzanenis)
