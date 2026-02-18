@@ -1,41 +1,71 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enis
-============================================================================================================================
+# Hi, I'm Enis 👋  
 
-Frontend Developer
-------------------
+📍 **Türkiye** | 🧠 **Full Stack Engineer**
 
-I've been dealing with Frontend for 4 years. I've done various projects with React.js.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-* ✉️  You can contact me at [uzanenis@outlook.com](mailto:uzanenis@outlook.com)
-* 🚀  I'm currently working on [AiFA Labs](https://www.aifalabs.com)
-* 🤝  I'm open to collaborating on ...
+> Building consumer & AI-powered products end-to-end.  
 
-### Skills
+---
 
+## 🚀 About Me
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
- <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
- <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+- 4+ years of professional experience  
+- Currently working as a **Full Stack Engineer**  
 
+I enjoy building:
+- 🧠 AI-powered apps  
+- 📱 Consumer mobile products  
+- ⚡ Fast MVPs with clean architecture  
+- 🛠 Developer tools & automation systems  
 
+---
 
-### Socials
+## 🏗 Philosophy
 
-<p align="left"> <a href="https://www.linkedin.com/in/enisuzan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/uzanenis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+> “Ship fast. Learn faster. Iterate relentlessly.”
 
-### Badges
+- I prefer real users over perfect architecture.
+- I build lean, measure, and optimize.
+- I treat AI as a force multiplier, not a gimmick.
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/uzanenis"><img src="https://github-readme-stats.vercel.app/api?username=uzanenis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="uzanenis's GitHub stats" /></a>
+## 📊 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/uzanenis)
+
+---
+
+## ✍️ What I'm Exploring
+
+- Agentic engineering
+- AI-assisted product development
+- Scalable SaaS architecture
+- B2C growth & distribution systems
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Enis_Uzan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzanenis)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://enisuzan.dev)  
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/uzanenis)
+
+---
+
+### Random Facts
+
+- I think like a founder, build like an engineer.
+- I care about UX as much as backend architecture.
+- Currently optimizing strength training & shipping code in parallel.
+- Obsessed with building things that actually get used.
